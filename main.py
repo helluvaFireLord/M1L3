@@ -25,4 +25,4 @@ async def on_message(message):
         await message.channel.send(coin())    
     else:
         await message.channel.send(message.content)
-client.run("MTEwNDY3MzI1MDU4OTU0MDQ2Mg.GJnaUk.Wque2km81qmKteyenjj9mdvrl0LHDIz3Dj4Av4")
+client.run("")
